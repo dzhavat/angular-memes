@@ -20,4 +20,14 @@ by [Serkan Sipahi](https://twitter.com/Bitcollage/status/1557646064487899137)
 
 by [Tomasz Kula](https://twitter.com/realTomaszKula/status/1557635304575623173)
 
+---
 
+![image](https://user-images.githubusercontent.com/1096332/184833955-8610b5c6-36b3-45da-a4ed-1ad2187ce860.png)
+
+by [Tomasz Kula](https://twitter.com/realTomaszKula/status/1557252596523483138)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/184834396-2532d32c-398d-4016-b721-1620a4f607c1.png)
+
+by [Tomasz Kula](https://twitter.com/realTomaszKula/status/1556897571322445824)
