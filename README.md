@@ -163,3 +163,9 @@ by [Tomasz Kula](https://twitter.com/realTomaszKula/status/1559786791150002183)
 ![image](https://user-images.githubusercontent.com/1096332/185468719-9d68ed2b-96d3-4d03-9a3c-d312c960d20e.png)
 
 by [simey](https://twitter.com/simey/status/1559803528649969664)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/185469664-b8df187e-1e50-47e8-a991-994e24e4b2f4.png)
+
+by [simey](https://twitter.com/simey/status/1560316416099852292)
