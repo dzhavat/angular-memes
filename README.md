@@ -1,6 +1,6 @@
 # Angular memes
 
-Let's have some fun collecting all sorts of Angular memes.
+Let's have some fun collecting all sorts of Angular memes. You're welcome to add your own meme as well.
 
 ---
 
