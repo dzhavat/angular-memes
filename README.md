@@ -4,9 +4,39 @@ Let's have some fun collecting all sorts of Angular memes. You're welcome to add
 
 ---
 
+![image](https://user-images.githubusercontent.com/1096332/186994940-02072522-1c85-4e40-986d-f03710401c0c.png)
+
+by [Dzhavat Ushev](https://twitter.com/dzhavatushev/status/1563077786985590784)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/186994850-6c737a44-8c59-4e24-aada-e4f8e9b5d870.png)
+
+by [Santosh Yadav](https://twitter.com/SantoshYadavDev/status/1563108277499506689)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/186994488-dbab6547-81f7-449a-876b-abc05882ac2f.png)
+
+by [Lars Gyrup Brink Nielsen](https://twitter.com/LayZeeDK/status/1563039199028076544)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/186994569-36011e3a-f0ee-4cdc-ac26-90f4b0bdb4d9.png)
+
+by [simey](https://twitter.com/simey/status/1562990930331766785)
+
+---
+
 ![image](https://user-images.githubusercontent.com/1096332/186712278-61966fde-9db4-4c29-a940-b26b2699daf9.png)
 
 by [Lars Gyrup Brink Nielsen](https://twitter.com/LayZeeDK/status/1562758128491720705)
+
+---
+
+![image](https://user-images.githubusercontent.com/1096332/186994671-69d5c8d5-4d59-4c28-9dec-155885dbc4da.png)
+
+by [Tomasz Kula](https://twitter.com/realTomaszKula/status/1562710225710641155)
 
 ---
 
