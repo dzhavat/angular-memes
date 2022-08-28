@@ -4,6 +4,12 @@ Let's have some fun collecting all sorts of Angular memes. You're welcome to add
 
 ---
 
+![image](https://user-images.githubusercontent.com/1096332/187066316-ccb431e4-3e59-4681-8fa3-ee224f7a5c14.png)
+
+by [Lars Gyrup Brink Nielsen](https://twitter.com/LayZeeDK/status/1563760790850703360)
+
+---
+
 ![image](https://user-images.githubusercontent.com/1096332/186994940-02072522-1c85-4e40-986d-f03710401c0c.png)
 
 by [Dzhavat Ushev](https://twitter.com/dzhavatushev/status/1563077786985590784)
