@@ -2,6 +2,10 @@
 
 Let's have some fun collecting all sorts of Angular memes. You're welcome to add your own meme as well.
 
+![image](https://github.com/dzhavat/angular-memes/assets/1096332/db48686f-e115-4018-beb7-70f360b06334)
+
+by [Enea Jahollari](https://twitter.com/Enea_Jahollari/status/1558000674478202880)
+
 ---
 
 ![image](https://user-images.githubusercontent.com/1096332/219498761-b295dc70-8c51-4970-bd44-a265e595ea02.png)
